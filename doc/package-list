@@ -1,0 +1,8 @@
+sk.hupcejova.tajj.films.controller
+sk.hupcejova.tajj.films.dao
+sk.hupcejova.tajj.films.dao.impl
+sk.hupcejova.tajj.films.database
+sk.hupcejova.tajj.films.database.impl
+sk.hupcejova.tajj.films.dto
+sk.hupcejova.tajj.films.facade.impl
+sk.hupcejova.tajj.films.factory

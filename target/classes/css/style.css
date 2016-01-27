@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+body {
+    font-family: sans-serif;
+    background-color: #e8ecfa;
+}
+textarea {
+    width: 300px;
+}
+.film {
+    margin-top: 10px;
+    width: 300px;
+}
+.nadpis {
+    font-weight: bold;
+    float: left;
+}
+.button {
+    float: right;
+}
+.button form {
+    display: inline;
+}
+.obsah {
+    clear: both;
+}
